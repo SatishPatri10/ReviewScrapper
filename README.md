@@ -2,9 +2,8 @@
 
 A brief description of what this project does and who it's for.
 
-```
 This project is used to scrap the data from Flipkart on a real time basis, which provides username,user comments, date, ratings in a detailed view.
-```
+
 
 ## Run Locally
 
@@ -33,7 +32,6 @@ Start the server
 ```
 
 
-
 ## Deployment
 
 To deploy this project run
@@ -47,6 +45,9 @@ To deploy this project run
 6. Then, push your code with this command 'git push heroku master'
 7. Now, your app is successfully deployed in heroku.
 ```
+## Deployed Application
+
+https://reviewscrapper010.herokuapp.com/
 
 ## Authors
 
