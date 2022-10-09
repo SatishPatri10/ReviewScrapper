@@ -6,25 +6,33 @@ A brief description of what this project does and who it's for.
 This project is used to scrap the data from Flipkart on a real time basis, which provides username,user comments, date, ratings in a detailed view.
 ```
 
-## Demo
+## Run Locally
 
-__Step 1 : Clone this repo to your local__
+Clone the project
 
-```
-git clone https://github.com/SatishPatri10/ReviewScrapper.git
-```
-
-__Step 2 : Install the required libraries__
-
-```
-pip install -r requirements.txt
+```bash
+  git clone https://link-to-project
 ```
 
-__Step 3: Run the Application in Local.__
+Go to the project directory
 
+```bash
+  cd my-project
 ```
-py main.py
+
+Install dependencies
+
+```bash
+  pip install -r requirements.txt
 ```
+
+Start the server
+
+```bash
+  py app.py
+```
+
+
 
 ## Deployment
 
